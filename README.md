@@ -4,8 +4,6 @@ Going through the official [Flask tutorial](http://flask.pocoo.org/docs/1.0/tuto
 
 ## Project Layout
 
-The project directory will contain:
-
 - `flaskr/`, a Python package containing your application code and files.
 - `tests/`, a directory containing test modules.
 - `venv/`, a Python virtual environment where Flask and other dependencies are installed.
@@ -26,3 +24,4 @@ The project directory will contain:
 ├── setup.py
 └── MANIFEST.in
 ```
+
