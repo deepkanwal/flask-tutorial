@@ -46,4 +46,6 @@ The url_for() function generates the URL to a view based on a name and arguments
 
 When using a blueprint, the name of the blueprint is prepended to the name of the function. I.e. the above endpoint would be `auth/login`.
 
+## Templates
 
+Templates are files that contain static data as well as placeholders for dynamic data. A template is rendered with specific data to produce a final document. Flask uses the Jinja template library to render templates.
